@@ -1,4 +1,4 @@
-// C++ program to implement basic airline reservation system using file IO
+// C++ program to implement basic airline reservation system using SQLite3
 // objects in C++
 #include <iostream> 
 #include <fstream> 
